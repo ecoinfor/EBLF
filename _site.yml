@@ -1,0 +1,16 @@
+name: "常绿阔叶林"
+navbar:
+  title: "常绿阔叶林"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Vegetation"
+      href: EBLF.html
+    - text: "Species"
+      href: species.html
+    - text: "Data"
+      href: data.html
+    - text: "Reference"
+      href: reference.html
+    - text: "Contact"
+      href: contact.html
